@@ -1,0 +1,11 @@
+/vendor/
+/logs/
+*.log
+/uploads/
+
+/config.php
+/app/config.php
+
+*.tmp
+*.cache
+.vscode/
